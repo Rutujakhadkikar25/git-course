@@ -1,4 +1,4 @@
 student name:priya
-studnt roll no:11
+student roll no:11
 City:Hyderabad
-
+School:IG highschool
