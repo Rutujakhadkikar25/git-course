@@ -1,0 +1,2 @@
+name:rita
+city:mumbai
